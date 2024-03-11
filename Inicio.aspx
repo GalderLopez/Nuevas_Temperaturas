@@ -17,7 +17,7 @@
                 <h1>Conversor Temperaturas2</h1>
             </div>
             <div class="cuerpo">
-                <asp:Label ID="LblCentigrados" runat="server" Text="Grados Centígrados" CssClass="elemento"></asp:Label>
+                <asp:Label ID="LblCentigrados" runat="server" Text="Grados Centígrados" CssClass="element"></asp:Label>
                 <asp:Label ID="LblCentigrados1" runat="server" Text="Grados Centígrados1" CssClass="elemento"></asp:Label>
                 <asp:TextBox ID="TxtCentigrados" runat="server" CssClass="elemento"></asp:TextBox>
                 <asp:Label ID="LblFarenheit" runat="server" Text="Grados Farenheit" CssClass="elemento"></asp:Label>
